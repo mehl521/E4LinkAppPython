@@ -1,0 +1,6 @@
+gradle/caches/jars-9/0a1881e4d1618811ad340f23480ae7a9/gradle-api-8.5.jar filter=lfs diff=lfs merge=lfs -text
+gradle/caches/jars-9/0_b4d548bd390d39ac42f304a8373f45b1/gradle-api-8.5.jar filter=lfs diff=lfs merge=lfs -text
+gradle/caches/jars-9/0_fd57afc2f5f6613f273f9034f0cc91ae/lib.jar filter=lfs diff=lfs merge=lfs -text
+gradle/caches/transforms-4/90473f0ffd54df0b0e/instrumented-kotlin-compiler-embeddable-1.6.21.jar filter=lfs diff=lfs merge=lfs -text
+gradle/caches/transforms-4/90473f0ffd54df0b0e/instrumented-gradle-api-8.5.jar filter=lfs diff=lfs merge=lfs -text
+gradle/caches/transforms-4/90473f0ffd54df0b03fc710261b4ee/gradle-api-8.5.jar filter=lfs diff=lfs merge=lfs -text
